@@ -1,7 +1,7 @@
 ## Algumas informações importantes
-<p>Para executar a api siga os passos:
-    - Clone o repositório:
-    <i>git clone https://github.com/MartinsPaulo/ApiWallet.git</i>
+<p>Para executar a api siga os passos:</p>
+    <p>- Clone o repositório:</p>
+    <p><i>git clone https://github.com/MartinsPaulo/ApiWallet.git</i></p>
     - Na pasta do projeto:
     - Instale as dependências:
     <i>composer install</i>
@@ -22,4 +22,3 @@
     
     
     <h3>Pronto sua aplicação esta em funcionamento, para testar basta ultilizar o caminho : http://127.0.0.1:8000/api/seller/1/wallet</h3>
-</p>
