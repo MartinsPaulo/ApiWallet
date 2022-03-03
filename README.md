@@ -22,3 +22,5 @@
     
     
    <p><b>Pronto sua aplicação esta em funcionamento, para testar basta ultilizar o caminho : http://127.0.0.1:8000/api/seller/1/wallet</b></p>
+   
+   <p><b>Observação:</b>Sobre segurança a api no momento não ultiliza nenhuma, mas seria facil aplicar os tokens de autenticação do laravel, ou pode ser limitada via servidor por ip de acesso.</p>
