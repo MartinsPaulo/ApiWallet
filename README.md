@@ -25,4 +25,5 @@
    
    <p><b>Observação:</b>Sobre segurança a api no momento não ultiliza nenhuma, mas seria facil aplicar os tokens de autenticação do laravel, ou pode ser limitada via servidor por ip de acesso.</p>
 
-![image](https://user-images.githubusercontent.com/19333554/156670961-ea7ca00d-0845-4bca-872e-7d650cea1a4c.png)
+![image](https://user-images.githubusercontent.com/19333554/156671005-e9dd4813-1e54-4496-9068-b398ca1c52f5.png)
+
